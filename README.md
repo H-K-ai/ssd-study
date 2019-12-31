@@ -1,0 +1,1 @@
+﻿About SSD firmware basic  knowledge
